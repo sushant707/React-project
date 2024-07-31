@@ -6,9 +6,6 @@ This is a simple React application built with Vite. The app allows users to crea
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - User registration with name, email, and password
