@@ -1,0 +1,22 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa; /* Light gray background */
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px; /* Max width for the container */
+  margin: auto;
+  padding: 20px;
+  background-color: white; /* White background for forms */
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 576px) {
+  .container {
+    padding: 10px; /* Less padding on smaller screens */
+  }
+}
