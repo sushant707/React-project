@@ -41,17 +41,3 @@ This is a simple React application built with Vite. The app allows users to crea
 - Users can log in using their registered **email** and **password**.
 - If successful, they will be redirected to their **Account Page**.
 
-### File Structure
-
-/src
-  ├── components
-  │   └── Notification.js       # Notification component for user feedback
-  ├── pages
-  │   ├── Account.js            # Account management page
-  │   ├── Login.js              # Login page
-  │   └── Register.js           # Registration page
-  ├── App.js                    # Main application component
-  ├── index.css                 # Global CSS styles
-  └── main.jsx                  # Main entry point of the application
-/public
-  └── index.html                # HTML template
